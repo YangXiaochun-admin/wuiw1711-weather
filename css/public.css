@@ -1,0 +1,18 @@
+*{
+	margin: 0;    /* body 边框 */
+	padding: 0;
+	text-decoration: none; /*  a标签 */
+	font-style: normal;
+	list-style: none;
+
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);    /* 清除高亮 */
+
+	box-sizing: border-box;   /* 盒子的阴影 */
+}
+
+img{
+	width: 100%;
+	height: 100%;
+	border: 0;
+	display: block;
+}
