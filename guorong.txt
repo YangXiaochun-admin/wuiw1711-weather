@@ -1,2 +1,5 @@
-https://xiaoguorong.github.io/tianqi/
-https://xiaoguorong.github.io/news/
+
+https://xiaoguorong.github.io/tianqi/tianqi.html
+
+
+https://xiaoguorong.github.io/news/news.html
