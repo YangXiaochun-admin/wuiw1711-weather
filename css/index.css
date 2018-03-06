@@ -160,10 +160,10 @@ body{
 	width: 100vw;   	 /* vw设备宽*/
 	height:100vh; 		/*vh设备高*/
 	background-color: #f6f6f6;
-	position: fixed;
+	/*position: fixed;
 	left: 0;
 	top: 0;
-	bottom: 0;
+	bottom: 0;*/
 	margin: auto;
 	z-index: 999;    /*层级*/
 	/*position: absolute;
